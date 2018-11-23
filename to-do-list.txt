@@ -1,0 +1,101 @@
+- login - done
+- logout - done
+- registration - done
+- send verification email in registration - done
+- create link (activate email username upon clicking the link) done
+- member page:
+	- member detail page - done
+	- member dashboard - done
+	- member menu - done
+	- member genology
+		- can assign downline to other downline
+
+
+if member has downline add to array
+
+
+
+
+Be one of the team that will help you grow and build your dreams.
+
+Gifts for every 5th downline
+
+A simple hello could lead to a million things
+Losers are people who are afraid of losing
+When you are young work to learn not to earn
+
+Many ways to earn...
+Perfect system for 
+Membership plans:
+First Level - 3,000Php
+Second Level - 5,000Php
+Third Level - 10,000Php
+
+Fair System for membership level...
+We value efforts, the more your strive the more you will get from us
+
+Join & Gain!
+Form a family here & help each other
+
+Win! a gift like this car
+
+E-erase lang ang St. Jude Dream Home Giveaway ilisi lang daun ug Get your dream house here
+
+ilisi sold out to GIFT nga text
+
+walaa ang text nga Thank you Kansas! ilisi na lang ug gift nga icon
+
+dreamhome.org to tbcgoldmerchant.ph
+
+
+
+wednesday - friday
+1. add steps for sign-up - done
+2. sign-up with sponsor field - done
+6. confirming transaction will run giving of points - done
+
+3. member can add & assign recruits in member page
+4. add member alias
+5. add blockchain.info api
+7. filtering for transactions & members list
+8. account credentials for admin
+9. monthly maintenance
+10. user can exchange points
+
+saturday - sunday
+11. admin dashboard blockchain api
+7. admin role
+12. merchants CRUD
+14. news/updates CRUD
+13. redesign background image in homepage
+
+
+nasty: a9adaa21-fdd2-4e05-9183-20e4836fa340
+laalaa: ff97e48d-43c4-41f8-92f3-8d7c8a591e1c
+
+
+REDO:
+1. transaction listing/filtering
+2. test btc payment transaction
+3. member can register recruits
+4. Admin Role
+5. Admin update account
+6. TEST TEST TEST
+
+
+1. Transaction list for member cash out
+2. 
+
+https://blockchain.info/tx/
+
+
+To Cash Out:
+
+- maximum of 1000pts
+- minimum of 1000pts
+- must be friday
+- not yet expired
+
+
+5b6d5f23499ba - upline of teodula
+alberto101  - downline of teodula
